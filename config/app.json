@@ -1,0 +1,20 @@
+{
+  "appname": "JKUMerger",
+  "input_from_row": 5,
+  "output_file": "output.xlsx",
+  "log_file": "errors.txt",
+  "mounth": [
+      {"id":1, "title": "январь"},
+      {"id":2, "title": "февраль"},
+      {"id":3, "title": "март"},
+      {"id":4, "title": "апрель"},
+      {"id":5, "title": "май"},
+      {"id":6, "title": "июнь"},
+      {"id":7, "title": "июль"},
+      {"id":8, "title": "август"},
+      {"id":9, "title": "сентябрь"},
+      {"id":10, "title": "октябрь"},
+      {"id":11, "title": "ноябрь"},
+      {"id":12, "title": "декабрь"}
+    ]
+}

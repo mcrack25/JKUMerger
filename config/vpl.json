@@ -1,0 +1,15 @@
+[
+  {"id": 1, "type": "fed", "page_title": "фед", "like": ["5-фз"]},
+  {"id": 2, "type": "fed", "page_title": "фед", "like": ["181"]},
+  {"id": 3, "type": "fed", "page_title": "фед", "like": ["узники фашизма"]},
+  {"id": 4, "type": "fed", "page_title": "фед", "like": ["чаэс", "маяк"]},
+  {"id": 5, "type": "reab", "page_title": "реаб", "like": ["реабилитированные", "реабилитир. лицам"]},
+  {"id": 6, "type": "vet", "page_title": "вет", "like": ["ветеран"]},
+  {"id": 7, "type": "mnog", "page_title": "мног", "like": ["многодет"]},
+  {"id": 8, "type": "35_6", "page_title": "35_6", "like": ["35 пост"]},
+  {"id": 9, "type": "spec", "page_title": "спец", "like": ["культ"]},
+  {"id": 10, "type": "spec", "page_title": "спец", "like": ["медицинск", "медработники"]},
+  {"id": 11, "type": "spec", "page_title": "спец", "like": ["педагог", "педработники"]},
+  {"id": 12, "type": "spec", "page_title": "спец", "like": ["соц. работникам", "социальные работники"]},
+  {"id": 13, "type": "spec", "page_title": "спец", "like": ["ветеринарной службы", "вет. работникам", "ветеринарные"]}
+]

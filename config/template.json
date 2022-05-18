@@ -1,0 +1,15 @@
+[
+  {"vpl_id": 1, "sb_col":"C", "sb_sum":"D", "total_col":"L", "total_sum":"M"},
+  {"vpl_id": 2, "sb_col":"E", "sb_sum":"F", "total_col":"N", "total_sum":"O"},
+  {"vpl_id": 3, "sb_col":"I", "sb_sum":"J", "total_col":"R", "total_sum":"S"},
+  {"vpl_id": 4, "sb_col":"G", "sb_sum":"H", "total_col":"P", "total_sum":"Q"},
+  {"vpl_id": 5, "sb_col":"C", "sb_sum":"D", "total_col":"F", "total_sum":"G"},
+  {"vpl_id": 6, "sb_col":"C", "sb_sum":"D", "total_col":"F", "total_sum":"G"},
+  {"vpl_id": 7, "sb_col":"C", "sb_sum":"D", "total_col":"F", "total_sum":"G"},
+  {"vpl_id": 8, "sb_col":"BA", "sb_sum":"BB", "total_col":"BC", "total_sum":"BD"},
+  {"vpl_id": 9, "sb_col":"C", "sb_sum":"D", "total_col":"O", "total_sum":"P"},
+  {"vpl_id": 10, "sb_col":"I", "sb_sum":"J", "total_col":"U", "total_sum":"V"},
+  {"vpl_id": 11, "sb_col":"K", "sb_sum":"L", "total_col":"W", "total_sum":"X"},
+  {"vpl_id": 12, "sb_col":"E", "sb_sum":"F", "total_col":"Q", "total_sum":"R"},
+  {"vpl_id": 13, "sb_col":"G", "sb_sum":"H", "total_col":"S", "total_sum":"T"}
+]

@@ -1,0 +1,12 @@
+{
+  "app": "app",
+  "config": "config",
+  "helpers": "helpers",
+  "storage": "storage",
+  "input": "storage.input",
+  "output": "storage.output",
+  "logs": "storage.logs",
+  "template": "storage.template",
+  "temp": "storage.temp",
+  "controllers": "app.controllers"
+}
